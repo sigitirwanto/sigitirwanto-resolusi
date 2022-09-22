@@ -1,0 +1,4 @@
+RENCANA MEMBUAT FORM LOGIN
+Membuat form pendaftaran member
+Membuat form login jika sudah terdaftar
+menambahkan sedikit javascript
