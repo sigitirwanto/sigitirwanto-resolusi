@@ -1,0 +1,6 @@
+RENCANA MEMBUAT FORM LOGIN
+pendaftaran member
+*meanbahkan fitur label option
+*menambahkan button href
+form login jika sudah terdaftar
+menambahkan sedikit javascript
