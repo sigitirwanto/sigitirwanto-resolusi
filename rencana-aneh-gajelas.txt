@@ -6,3 +6,4 @@ pendaftaran member
 form login jika sudah terdaftar
 menambahkan sedikit javascript
 ^ menggunakan framework
+- menggunakan Angular
