@@ -2,9 +2,10 @@ RENCANA MEMBUAT FORM LOGIN
 pendaftaran member
 *meanbahkan fitur label option
 *menambahkan button href
+^ perlu menambahkan textarea
 form login jika sudah terdaftar
 # tambahkan href ke tampilan dasboard
 menambahkan sedikit javascript
-# membuat dengan React.js
-# blabla bla bla
-menambahkan bla bla bla
+^ menggunakan framework
+- menggunakan Angular
+
