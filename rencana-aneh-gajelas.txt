@@ -1,4 +1,6 @@
 RENCANA MEMBUAT FORM LOGIN
-Membuat form pendaftaran member
-Membuat form login jika sudah terdaftar
+pendaftaran member
+*meanbahkan fitur label option
+*menambahkan button href
+form login jika sudah terdaftar
 menambahkan sedikit javascript
