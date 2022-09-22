@@ -2,5 +2,8 @@ RENCANA MEMBUAT FORM LOGIN
 pendaftaran member
 *meanbahkan fitur label option
 *menambahkan button href
+^ perlu menambahkan textarea
 form login jika sudah terdaftar
 menambahkan sedikit javascript
+^ menggunakan framework
+- menggunakan Angular
